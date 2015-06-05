@@ -1,0 +1,26 @@
+JVM - Java Virtual Machine
+
+JRE - Java Runtime Environment
+	- Class Loader
+	
+javac <file-name>.java
+
+java <class-name>
+
+int x = 10;
+
+if(x > 10 && x % 2 == 0) {
+
+}
+else
+		....
+
+if(x > 5 || x % 5 == 1)
+	.....
+
+	
+	
+	
+	
+	
+	
